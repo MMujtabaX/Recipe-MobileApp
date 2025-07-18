@@ -1,19 +1,30 @@
-# 🍽️ Flutter Recipe App
+# 🍳 Flutter Recipe App
 
-A simple and elegant recipe management mobile app built using **Flutter**. Users can view a list of recipes, add new recipes, and mark them as favorites. Each recipe includes a name, cooking time, difficulty level, and an image from local assets.
+A beautifully designed **Flutter mobile app** to manage and explore your favorite recipes. Add, view, and favorite delicious meals — all in one clean and interactive interface. Perfect for foodies and budding Flutter developers! 💖
 
-![Recipe App Screenshot](assets/images/biryani.png)
-
-## ✨ Features
-
-- 📋 View a list of recipes with images
-- ➕ Add new recipes through a beautiful form
-- ❤️ Mark recipes as favorites
-- 🔍 Filter view to show only favorite recipes
-- 🖼️ Local asset image integration
-- 🎨 Gradient UI with Material design components
+![biryani](biryani.png)
 
 ---
 
-## 📁 Project Structure
+## 🚀 Features
+
+✨ Simple and intuitive UI  
+📝 Add new recipes with name, cooking time, difficulty & image  
+💖 Mark/unmark your favorite dishes  
+📷 Supports image display from assets  
+🎨 Beautiful gradients and animations  
+
+---
+
+## 🧩 Tech Stack
+
+| Technology  | Description                            |
+|-------------|----------------------------------------|
+| Flutter     | UI toolkit for building natively compiled apps |
+| Dart        | Programming language for Flutter       |
+| Material UI | Flutter's built-in design components   |
+
+---
+
+## 📂 Project Structure
 
