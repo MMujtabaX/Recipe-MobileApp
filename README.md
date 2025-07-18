@@ -2,7 +2,7 @@
 
 A beautifully designed **Flutter mobile app** to manage and explore your favorite recipes. Add, view, and favorite delicious meals — all in one clean and interactive interface. Perfect for foodies and budding Flutter developers! 💖
 
-![biryani](biryani.png)
+![biryani](biryani.png) [coffee](https://cdn.dribbble.com/userupload/26317272/file/original-28b538dd81a101da7a0863b5c477e184.gif)
 
 ---
 
